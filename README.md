@@ -12,13 +12,5 @@
 ## 🛠️ Tech Stack (Front-end)
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Language:** [Dart](https://dart.dev/)
-- **State Management:** (أضف هنا النوع الذي استخدمته مثل Provider أو Bloc أو GetX)
+- **State Management:** GetX
 - **Design Tools:** Figma
-
-## 📸 Screenshots
-*Add your app screenshots here to showcase your UI/UX skills!*
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/JobFlex-Frontend.git](https://github.com/YourUsername/JobFlex-Frontend.git)
